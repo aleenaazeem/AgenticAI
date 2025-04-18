@@ -1,2 +1,3 @@
 This will have notes from various courses
 add stuff
+we will do it
